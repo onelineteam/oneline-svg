@@ -1,0 +1,184 @@
+{
+  "id": "1931293",
+  "name": "@oneline/svg",
+  "font_family": "olicon",
+  "css_prefix_text": "ol-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29924",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "29925",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "29935",
+      "name": "location_fill",
+      "font_class": "locationfill",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "29936",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "29941",
+      "name": "round_check_fill",
+      "font_class": "roundcheckfill",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "29942",
+      "name": "round_check",
+      "font_class": "roundcheck",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "29943",
+      "name": "round_close_fill",
+      "font_class": "roundclosefill",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "29944",
+      "name": "round_close",
+      "font_class": "roundclose",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "29947",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "29952",
+      "name": "unfold",
+      "font_class": "unfold",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "30441",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "32305",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "32312",
+      "name": "refresh",
+      "font_class": "refresh",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "32326",
+      "name": "more_android",
+      "font_class": "moreandroid",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "32462",
+      "name": "delete_fill",
+      "font_class": "deletefill",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "32477",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "38737",
+      "name": "square_check_fill",
+      "font_class": "squarecheckfill",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "38739",
+      "name": "square",
+      "font_class": "square",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "38741",
+      "name": "square_check",
+      "font_class": "squarecheck",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "41957",
+      "name": "fold",
+      "font_class": "fold",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "1493701",
+      "name": "close_light",
+      "font_class": "close_light",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "1493702",
+      "name": "add_light",
+      "font_class": "add_light",
+      "unicode": "e7dd",
+      "unicode_decimal": 59357
+    },
+    {
+      "icon_id": "1496051",
+      "name": "back_light",
+      "font_class": "back_light",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "1596784",
+      "name": "round_close_light",
+      "font_class": "round_close_light",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "1596785",
+      "name": "round_close_fill_light",
+      "font_class": "round_close_fill_light",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    }
+  ]
+}

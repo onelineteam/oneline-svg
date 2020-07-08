@@ -1,0 +1,33 @@
+{
+  "name": "@oneline/svg",
+  "version": "0.0.1",
+  "description": "oneline样式中的使用的svg",
+  "main": "dist/index.es.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "NODE_ENV=production rollup -c rollup.config.js",
+    "dev": "rollup -c rollup.config.js --watch",
+    "sync:svg": "node src/iconfont/sync-iconfont.js",
+    "prepublish": " npm run build"
+  },
+  "files": ["dist", "README.md", "assets"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onelineteam/oneline-svg.git"
+  },
+  "author": "keep2zero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onelineteam/oneline-svg/issues"
+  },
+  "homepage": "https://github.com/onelineteam/oneline-svg#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^13.0.0",
+    "@rollup/plugin-node-resolve": "^8.1.0",
+    "rollup": "^2.21.0",
+    "superagent": "^5.3.1"
+  }
+}
